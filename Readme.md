@@ -1,9 +1,9 @@
-##PetFit
+## PetFit
 
 # Description
 This is an application covering all the essential necessities of pets
 
-#Features
+# Features
     - Your pet data
     - Health analysis of pet
     - Clinics near you
