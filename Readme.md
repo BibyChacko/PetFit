@@ -1,9 +1,9 @@
-## PetFit
+# PetFit
 
-# Description
+## Description
 This is an application covering all the essential necessities of pets
 
-# Features
+## Features
     - Your pet data
     - Health analysis of pet
     - Clinics near you
@@ -16,13 +16,13 @@ This is an application covering all the essential necessities of pets
     - Pet shows
     - Pet care clinic
 
-# Technologies
+## Technologies
     - Android SDK
     - Jetpack Compose
     - Kotlin
     - Firebase
 
-# Coding Style
+## Coding Style
    The project is following clean code architecture where we split the feature into data,domain and presentation layer
    The folder structure is like:
            |- data
@@ -37,7 +37,7 @@ This is an application covering all the essential necessities of pets
              |- pages
              |- components
 
-# Common UI components
+## Common UI components
        - AppTextFormField
        - PetFitAppBar
        - AppButton
