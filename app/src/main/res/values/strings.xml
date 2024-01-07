@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PetFit</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="back">Back</string>
+    <string name="login">Login</string>
+    <string name="login_to_your_account">Login to your  Account</string>
+    <string name="signin_alternatives_text">-  or sign in with  -</string>
+    <string name="new_user_text_1">Don\'t have an account? </string>
+    <string name="create_now">Create now</string>
+    <string name="email_required">Email is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="password_visibility">Password visibility</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="password_complexity_warning">Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number, 1 special character, and be at least 8 characters long.</string>
+    <string name="my_pets">My Pets</string>
+    <string name="mobile_service_main_text">Get service on your doorstep. Book for mobile veterinary service</string>
+    <string name="on_your_doorsteps">On your doorsteps</string>
+    <string name="book_now">Book now</string>
+    <string name="emergency">Emergency</string>
+    <string name="search_icon">Search icon</string>
+    <string name="search_clinics">Search clinics</string>
+</resources>
