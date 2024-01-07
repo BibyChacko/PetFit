@@ -1,6 +1,5 @@
 # PetFit
 
-## Description
 This is an application covering all the essential necessities of pets
 
 ## Features
